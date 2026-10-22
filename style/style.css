@@ -1,0 +1,99 @@
+.cabecalho {
+    background-color: #5A5A57;
+    color: #bbb6b6;
+
+    padding: 30px 0;
+}
+
+.subtitulo {
+    max-width: 700px;
+}
+
+.rodape {
+    margin-top: 40px;
+    padding: 25px;
+    color:#354863 ;
+    
+    background-color:rgb(138, 130, 130);
+    text-align: center;
+}
+
+code, pre{
+    font-family: Consolas,"Courier New", monospace;
+}
+
+h2,h3 {
+    color: #5A5A57;
+}
+
+h1 {
+    font-size: 38px;
+    margin-bottom: 10px;
+    color: #bbb6b6 ;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+body {
+ margin: 0;
+    background-color: #f1f5f9;
+    color: #5A5A57;
+
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.Git{
+    height: 10;
+    width: 10;
+}
+   
+.secao {
+    padding: 72px;
+}
+
+.etiqueta {
+    margin-bottom: 5px;
+
+    color: #bbb6b6 ;
+
+    font-size: 13;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+
+    margin: 0 auto;
+}
+
+.card {
+    padding: 24px;
+    background-color: #fff;
+    border: 1px solid #d8e0e8;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(20, 45, 70, 0.08);
+    
+}
+
+.secao {
+    padding: 72px;
+}
+
+.titulo-secao {
+    margin-bottom: 32px;
+    padding-left: 12px;
+
+    border-left: 5px solid #454543;
+    border-radius: 5px;
+}
+
